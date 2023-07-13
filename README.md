@@ -9,6 +9,7 @@ Kiến thức html
 <ul>tạo danh sách
 <body>để chứa nội dung website
 <ol>taoh danh sách bằng dấu chấm
+<a>để tạo liên kết sang trang khác
 kiến thức về css
 .classname là để style css tron classname đó
 font-size cỡ chữ trong đoạn văn bản
