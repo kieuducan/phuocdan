@@ -11,7 +11,7 @@ Kiến thức html
 <ol>taoh danh sách bằng dấu chấm
 <a>để tạo liên kết sang trang khác
 kiến thức về css
-.classname là để style css tron classname đó
+.classname là để style css trong classname đó
 font-size cỡ chữ trong đoạn văn bản
 font-weight làm đậm chữ
 color làm màu
